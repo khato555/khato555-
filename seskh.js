@@ -9,7 +9,7 @@ console.log(c);
 
 
 
-let person = {
+let person = { 
     "first name":"khatuna",
 "last name":"dzidzaria",
 "age":38,
